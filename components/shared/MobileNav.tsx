@@ -9,6 +9,7 @@ import {
   import Image from "next/image"
   import NavItems from "./NavItems"
 import { AlignRightIcon } from "lucide-react"
+import { Separator } from "../ui/separator"
   
   
   const MobileNav = () => {
@@ -29,7 +30,7 @@ import { AlignRightIcon } from "lucide-react"
                 />
                 <h5 className="font-bold ml-2">Event<span className="text-blue-600">Flow</span></h5>
             </div>
-            {/* <Separator className="border border-gray-50" /> */}
+            <Separator className="border border-gray-50" />
             <NavItems />
           </SheetContent>
         </Sheet>
