@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Event Organizing App
 
-First, run the development server:
+Introducing a dynamic event organization web app crafted with cutting-edge tools to seamlessly connect communities and ignite engagement.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Demo
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![Home](https://github.com/codescientists/eventflow/assets/66505013/b68a0d28-a96c-47b7-9556-52166dd99b4b)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## 🤖 Introduction
 
-To learn more about Next.js, take a look at the following resources:
+Crafted with precision using Next.js 14, this platform empowers you to:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Organize events effortlessly: Create, manage, and showcase diverse events with ease, captivating audiences and fostering meaningful connections.
+- Embrace user-centric design: Navigate intuitive interfaces seamlessly, thanks to the elegant styling of Tailwind CSS.
+- Explore with ease: Discover events effortlessly through lightning-fast search and intuitive filtering capabilities.
+- Unlock a world of possibilities: Dive into a rich tapestry of categories, catering to every interest and passion.
+- Streamline checkout: Effortlessly secure your spot at events with a frictionless checkout process.
+- Securely process payments: Integrate seamlessly with Stripe, ensuring secure and trusted payment transactions.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## ⚙️ Tech Stack
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Node.js
+- Next.js
+- TypeScript
+- TailwindCSS
+- Stripe
+- Zod
+- React Hook Form
+- Shadcn
+- uploadthing
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 🚀 Screenshots
+
+
+**Home Page**
+
+![Home](https://github.com/codescientists/eventflow/assets/66505013/b68a0d28-a96c-47b7-9556-52166dd99b4b)
+
+**Events**
+![Events](https://github.com/codescientists/eventflow/assets/66505013/46a4868b-d899-463e-8434-896efef60306)
+
+**Event Details Page**
+![Event Details](https://github.com/codescientists/eventflow/assets/66505013/66cab846-c037-4f88-b0e2-41491aeb58c0)
+
+**Profile Page**
+![Profile](https://github.com/codescientists/eventflow/assets/66505013/02e29445-bda5-4ff7-b8e9-83eb67818b63)
